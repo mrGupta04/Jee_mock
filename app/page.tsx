@@ -23,7 +23,7 @@ export default function Home() {
             Start Practicing
           </Link>
           <p className="text-sm text-slate-600">
-            5 sample questions • single-click feedback • mobile friendly
+            100 total questions | 2 JEE mock tests | Physics, Chemistry, Mathematics
           </p>
         </div>
       </section>
